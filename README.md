@@ -1,4 +1,4 @@
-🚀 TGTBBNB - Trade Bot
+🚀 TGTBBNB - Binance Trade Bot for Telegram
 
 TGTBBNB is an advanced automated trading system designed to operate on the Binance cryptocurrency exchange. Utilizing technical indicators and sophisticated algorithms, it aims to optimize trade decisions in real-time. This bot supports various trading strategies tailored to diverse market conditions, integrates seamlessly with Telegram for real-time notifications, and offers both fully automated and semi-automated trading modes.
 
